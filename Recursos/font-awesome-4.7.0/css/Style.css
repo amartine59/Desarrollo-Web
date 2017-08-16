@@ -1,0 +1,19 @@
+/*Siempre que se va a realizar una modificacion de estilo, se hace por medio del selector:
+Selector{clave:valor}*/
+/*EL id es unico, la clase se puede repetir*/
+h1{
+	color: peru;
+   }
+.banner{
+		width: 400px;
+		height: 300px;		
+       }
+ ul{
+  list-style: none;
+
+  }
+ li{
+  display: inline;
+  padding: 0 20px 20px 0;
+
+ }
